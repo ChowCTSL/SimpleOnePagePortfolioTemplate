@@ -33,7 +33,7 @@ $(document).ready(function($) {
 		$('.btn-social').one('focus', function(e){$(this).blur();});
 	});
 
-	//unfocus the resuem button after being clicked to prevent it from showing up as depressed
+	//unfocus the resume button after being clicked to prevent it from showing up as depressed
 	$('.btn-resume').click(function(){
 		$('.btn-resume').one('focus', function(e){$(this).blur();});
 	});
