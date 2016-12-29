@@ -15,6 +15,14 @@ For example, to change the color style to black and white, simply alter the cust
 <link rel="StyleSheet" type="text/css" media="screen" href="css/color-blackandwhite.css">
 ```
 
+### Project Images
+
+To change the project images, replace the files in the img/portfolio project directory, and refer to them appropriately in the HTML project section.
+
+### Resume Document
+
+To change the resume, replace the file in the documents/resume project directory.
+
 ### JavaScript
 
 The JavaScript files are located in the /js project directory, including the BootStrap JS components. The ekko-lightbox.js contains the script needed for using the lightbox for the projects section on the portfolio template.  The custom.js contains the addition JavaScript used for the template that can be altered to fit your needs.  
