@@ -8,7 +8,7 @@ This template was made using HTML, CSS, Bootstrap, and jQuery.
 
 ### Color Styles
 
-You can find the different color stylesheets in the /css project directory.  Changing the color style of the template can be done by altering the custom css path in the header of the HTML template (index.html). 
+You can find the different color stylesheets in the /css/colors project directory.  Changing the color style of the template can be done by altering the custom css path in the header of the HTML template (index.html). 
 
 For example, to change the color style to black and white, simply alter the custom css path in the HTML header to:
 ```
