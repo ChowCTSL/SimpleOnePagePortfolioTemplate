@@ -121,6 +121,11 @@ h3.h3-sm{
 	border-bottom: 1.6px solid #ffffff;
 }
 
+.pg-break.blue{
+	border-top: 1.6px solid #49C5DD;
+	border-bottom: 1.6px solid #49C5DD;
+}
+
 .pg-break.br-center{
 	margin: auto;
 }
@@ -191,7 +196,7 @@ section {
 
 .navbar-default .navbar-toggle:focus, 
 .navbar-default .navbar-toggle:hover {
-	background-color: #ff7372;
+	background-color: #49C5DD;
 }
 
 .navbar-default .navbar-toggle {
@@ -237,7 +242,7 @@ section {
 .menu-item:focus, 
 .menu-item:active, 
 .menu-item.active{
-	color: #ff7372;
+	color: #49C5DD;
 	text-decoration: none;
 }
 
@@ -272,7 +277,7 @@ section {
 #nav-modal .close:focus, 
 #nav-modal .close:active, 
 #nav-modal .close.active{
-	color: #ff7372;
+	color: #49C5DD;
 }
 
 
@@ -302,15 +307,12 @@ section {
 }
 
 #introduction h1, #introduction h2 {
-	/*text-shadow: 2.5px 1px #3a8458;*/
-	text-shadow: 4px 1px #108096;
+	text-shadow: 4px 1px #000;
 }
 
 .intro-bg {
-	/*background: linear-gradient(to right bottom, #53bd7e 65%, #5dd28c 35%);*/
-	/*background-color: #53bd7e;*/
-	background: linear-gradient(to right bottom, #17b3d2 65%, #49C5DD 35%);
-	background-color:  #17b3d2;
+	background: linear-gradient(to right bottom, #333 65%, #262626 35%);
+	background-color:  #333;
 }
 
 
@@ -330,15 +332,14 @@ section {
 	border-radius: 48px;
 	margin-left:10px;
 	margin-right: 10px;
-	/*box-shadow: 2px 4px 1px 0 #2e6946;*/
-	box-shadow: 2px 4px 1px 0 #108096;
+	box-shadow: 2px 4px 1px 0 #000;
 }
 
 .btn-social:hover,
 .btn-social:active,
 .btn-social.active{
-	background-color: #FFFFFF;
-	color: #ff7372;
+	background-color: #49C5DD;
+	color: #ffffff;
 	box-shadow: none;
 }
 
@@ -370,15 +371,14 @@ section {
 	left: 0;
 	right: 0;
 	opacity: 2;
-	color: #595959;
-	/*text-shadow: 3px 3px #419362;*/
-	text-shadow: 3px 2px #108096;
+	color: #fff;
+	text-shadow: 3px 2px #000;
 }
 
 .arrow:hover, 
 .arrow:active, 
 .arrow.active{
-	color:#ffffff;
+	color:#49C5DD;
 }
 
 
@@ -412,7 +412,7 @@ section {
 }
 
 .progress-bar {
-	background-color: #ff7372;
+	background-color: #49C5DD;
 }
 
 
@@ -459,10 +459,8 @@ section {
 }
 
 .port-bg {
-/*	background: linear-gradient(to right bottom, #3CDA7B 65%, #67e298 35%);
-background-color:#3CDA7B;*/
-background: linear-gradient(to right bottom, #2b3c4e 65%, #3f5972 35%);
-background-color: #2b3c4e;
+background: linear-gradient(to right bottom, #333 65%, #262626 35%);
+background-color:  #333;
 }
 
 .portbox{
@@ -528,7 +526,7 @@ background-color: #2b3c4e;
 .contact-me-list:hover, 
 .contact-me-list:active, 
 .contact-me-list.active{
-	background-color: #ff7372;
+	background-color: #49C5DD;
 	color: #ffffff;
 	box-shadow: none;
 }
