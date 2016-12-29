@@ -12,7 +12,7 @@ You can find the different color stylesheets in the /css/colors project director
 
 For example, to change the color style to black and white, simply alter the custom css path in the HTML header to:
 ```
-<link rel="StyleSheet" type="text/css" media="screen" href="css/color-blackandwhite.css">
+<link rel="StyleSheet" type="text/css" media="screen" href="css/colors/color-blackandwhite.css">
 ```
 
 ### Project Images
