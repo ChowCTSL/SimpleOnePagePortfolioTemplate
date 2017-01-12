@@ -39,7 +39,7 @@
 }
 
 /*height*/
-@media screen and (max-height: 650px ){
+@media screen and (max-height: 480px ){
 	html, body {
 		font-size: 1em;
 		line-height:1.2em;
@@ -392,7 +392,7 @@ section {
 
 
 #about {
-	height: 91%;
+	height: 93%;
 	color: #404040;
 }
 
