@@ -4,6 +4,13 @@ This project consists of a simple one page portfolio template, which includes an
 
 This template was made using HTML, CSS, Bootstrap, and jQuery. 
 
+## Preview
+![Alt text](http://imgur.com/bKcA7Dc "Introduction")
+![Alt text](http://imgur.com/8DAKovP "About")
+![Alt text](http://imgur.com/s6mFrpI "Portfolio")
+![Alt text](http://imgur.com/BMMH9bM "Contact")
+
+
 ## Getting Started
 
 ### Color Styles
@@ -37,7 +44,7 @@ This project was created to provide others a template that was simple yet has th
 - [Bootstrap 3.3](http://getbootstrap.com/)
 - [ekko-lightbox](http://ashleydw.github.io/lightbox/)
 - [Font Awesome](http://fontawesome.io/)
-- [Images] (https://www.pexels.com/)
+- [Images - Pexel] (https://www.pexels.com/)
 
 
 ### Fonts
