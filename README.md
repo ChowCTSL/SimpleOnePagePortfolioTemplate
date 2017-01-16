@@ -44,7 +44,7 @@ This project was created to provide others a template that was simple yet has th
 - [Bootstrap 3.3](http://getbootstrap.com/)
 - [ekko-lightbox](http://ashleydw.github.io/lightbox/)
 - [Font Awesome](http://fontawesome.io/)
-- [Images - Pexel] (https://www.pexels.com/)
+- [Images - Pexels] (https://www.pexels.com/)
 
 
 ### Fonts
