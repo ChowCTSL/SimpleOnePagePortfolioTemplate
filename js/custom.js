@@ -28,14 +28,9 @@ $(document).ready(function($) {
 		$('#nav-button').one('focus', function(e){$(this).blur();});
 	});
 
-	//unfocus the social buttons after being clicked to prevent it from showing up as depressed
-	$('.btn-social').click(function(){
-		$('.btn-social').one('focus', function(e){$(this).blur();});
-	});
-
-	//unfocus the resume button after being clicked to prevent it from showing up as depressed
-	$('.btn-resume').click(function(){
-		$('.btn-resume').one('focus', function(e){$(this).blur();});
+	// //unfocus the buttons after being clicked to prevent it from showing up as depressed
+	$('.btn').click(function() {
+		$('.btn').one('focus', function(e){$(this).blur();});
 	});
 
 
