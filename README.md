@@ -5,10 +5,10 @@ This project consists of a simple one page portfolio template, which includes an
 This template was made using HTML, CSS, Bootstrap, and jQuery. 
 
 ## Preview (screenshots)
-![Intro Section](http://imgur.com/bKcA7Dc "Introduction")
-![About Section](http://imgur.com/8DAKovP "About")
-![Portfolio Section](http://imgur.com/s6mFrpI "Portfolio")
-![Contact Section](http://imgur.com/BMMH9bM "Contact")
+![Intro Section](http://imgur.com/bKcA7Dc)
+![About Section](http://imgur.com/8DAKovP)
+![Portfolio Section](http://imgur.com/s6mFrpI)
+![Contact Section](http://imgur.com/BMMH9bM)
 
 
 ## Getting Started
