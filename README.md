@@ -2,7 +2,7 @@
 
 This project consists of a simple one page portfolio template, which includes an introduction section, about me section, projects section, and a contact me section.  The template comes in several different pre-made color styles.
 
-This template was made using HTML, CSS, Bootstrap, and jQuery. 
+This template was made using HTML, CSS, Bootstrap, and jQuery.  It is a responsive website that is compatible with mobile.
 
 ## Preview (screenshots)
 ![Intro Section](http://i.imgur.com/bKcA7Dc.png)
